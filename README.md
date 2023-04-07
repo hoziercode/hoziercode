@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Damilola Salako</h1>
-<h3 align="center">👋 Hi there! I'm [Your Name], a passionate Flutter developer with [X] years of experience in building beautiful and functional mobile apps.
+<h3 align="center">👋 Hi there! I'm Damilola, a passionate Flutter developer with six months of experience in building beautiful and functional mobile apps.
 
 🚀 I love to create dynamic and engaging user interfaces, implement complex features, and optimize app performance for seamless user experiences. I'm also familiar with popular libraries and frameworks such as Provider, Bloc, and Firebase.
 
 💻 On my GitHub, you'll find a collection of open-source Flutter projects that demonstrate my coding skills and problem-solving abilities. I'm always eager to learn and collaborate on new projects, so feel free to reach out to me.
 
-📫 You can connect with me on LinkedIn or send me an email at [Your Email Address]. Let's build amazing apps together!
+📫 You can connect with me on LinkedIn or send me an email at hoseasalako@gmail.com. Let's build amazing apps together!
 <h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salstein&label=Profile%20views&color=0e75b6&style=flat" alt="salstein" /> </p>
