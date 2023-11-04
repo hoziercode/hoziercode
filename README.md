@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Damilola Salako</h1>
-<h3 align="center">👋 Hi there! I'm Damilola, a passionate Flutter developer and web developer with two years of experience in building beautiful and functional mobile apps.
+<h3 align="center">👋 Hi there! I'm Damilola, a passionate Flutter developer and web developer with two years of experience in building beautiful and functional mobile apps and websites.
 
 🚀 I love to create dynamic and engaging user interfaces, implement complex features, and optimize app performance for seamless user experiences. I'm also familiar with popular libraries and frameworks such as Provider, Bloc, and Firebase.
 
