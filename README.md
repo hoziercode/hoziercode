@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Damilola Salako</h1>
-<h3 align="center">👋 Hi there! I'm Damilola, a passionate Flutter developer and web developer with two years of experience in building beautiful and functional mobile apps and websites.
+<h3 align="center">👋 Hi there! I'm Damilola, a passionate Flutter developer and web developer with three years of experience in building beautiful and functional mobile apps and websites.
 
 🚀 I love to create dynamic and engaging user interfaces, implement complex features, and optimize app performance for seamless user experiences. I'm also familiar with popular libraries and frameworks such as Provider, Bloc, and Firebase.
 
@@ -10,12 +10,12 @@
 📫 You can connect with me on LinkedIn or send me an email at hoseasalako@gmail.com. Let's build amazing apps together!
 <h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salstein&label=Profile%20views&color=0e75b6&style=flat" alt="salstein" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hoziercode&label=Profile%20views&color=0e75b6&style=flat" alt="hoziercode" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/sal_sstein" target="blank"><img src="https://img.shields.io/twitter/follow/sal_sstein?logo=twitter&style=for-the-badge" alt="sal_sstein" /></a> </p>
+<p align="left"> <a href="https://twitter.com" target="blank"><img src="https://img.shields.io/twitter/follow/hoziercoden?logo=twitter&style=for-the-badge" alt="hoziercde" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [github.com/salstein](github.com/hoziercode)
+- 👨‍💻 All of my projects are available at [github.com/hoziercode
 
 - 💬 Ask me about *flutter, python, dart, firebase, git, javaScript,*
 
