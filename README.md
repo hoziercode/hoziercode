@@ -15,7 +15,7 @@
 
 <p align="left"> <a href="https://twitter.com" target="blank"><img src="https://img.shields.io/twitter/follow/hoziercoden?logo=twitter&style=for-the-badge" alt="hoziercde" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [github.com/hoziercode
+- 👨‍💻 All of my projects are available at github.com/hoziercode
 
 - 💬 Ask me about *flutter, python, dart, firebase, git, javaScript,*
 
